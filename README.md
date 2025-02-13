@@ -8,7 +8,6 @@ This project implements a real-time drowsiness detection system using computer v
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Model Training](#model-training)
 - [Real-Time Demo](#real-time-demo)
 - [Dataset](#dataset)
 - [Contributing](#contributing)
