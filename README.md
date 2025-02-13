@@ -26,7 +26,6 @@ The project requires the following libraries:
 - numpy
 - matplotlib
 - seaborn
-- winsound (For Windows alert sound)
 
 ## Installation
 
