@@ -51,14 +51,14 @@ If you want to train your own model, you can use the provided Jupyter Notebook (
 
 ## Real-Time Demo
 
-To run the real-time drowsiness detection demo use the provided Jupyter Notebook (Real Time Video Demo.ipynb). 
+To run the real-time drowsiness detection demo use the provided Jupyter Notebook (Real Time Video Demo V2.ipynb). 
 
 **The code :**
 
 - Importing Required Libraries
 - Load the trained model And Defining Class Labels
 - Set sound frequency and duration
-- Load Haarcascades for face and eyes (including eyeglasses)
+- Detect eyes (including eyeglasses)
 - captures video from the webcam.
 - Detects faces and eyes using OpenCV.
 - Uses a deep learning model to classify eye state.
